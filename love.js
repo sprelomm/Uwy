@@ -35,14 +35,9 @@ function showSecret(){
 
     const text=`My love...
 
-You are my safest place,
-my favorite coincidence,
-and the most beautiful story
-life has ever written for me.
+Has convertido mi vida en un mar de colores sin fin, mis dias en veranos soleados, mis noches en desvelos iluminados. Definitivamente el destino nos unio, y nos llevo al punto exacto en nuestra vida para colindar y estar juntos en este momento, para formar our own universe y en un futuro tener experiencias, momentos, lecciones, y muchas enseñanzas. Se que no han sido fáciles las cosas, hemos tenido momentos retadores, rachas y dias desgastantes, me da paz saber que estamos aqui, nos hemos acoplado a las circunstancias, a los momentos y hemos sacado adelante nuestro amor. Nuestro primer 14 de febrero lejos, aunque duele, estoy segura que es uno menos, y eso me llena el alma. No queria que fuera un dia mas, y aunque no es demasiado, te pregunto ¿Quieres ser mi san valentin? ¿Hoy mañana y siempre?
 
-I choose you today,
-tomorrow,
-and in every universe that exists.
+Lov u <3
 
 Forever yours ❤️`;
 
