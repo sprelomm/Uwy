@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My Valentine</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<script src="stars.js"></script>
+<script src="love.js"></script>
+
+<audio autoplay loop>
+<source src="music.mp3">
+</audio>
+
+<div class="container">
+
+<div class="title">Will you be my Valentine?</div>
+<div id="counter" class="counter"></div>
+
+<button class="btn" onclick="showSecret()">Yes 💖</button>
+<button class="btn" onmouseover="this.style.position='absolute';this.style.left=Math.random()*80+'%';this.style.top=Math.random()*80+'%';">
+No
+</button>
+
+<div id="letter"></div>
+
+<br><br>
+<button class="btn" onclick="location.href='game.html'">
+Secret memory game 🎮
+</button>
+
+</div>
+</body>
+</html>
