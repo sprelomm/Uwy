@@ -13,6 +13,15 @@ body{
     margin:auto;
     padding:60px 20px;
     text-align:center;
+
+    .container img {
+    display: block;        /* centrarlas y quitar espacio raro */
+    margin: 20px auto;     /* espacio arriba y abajo */
+    max-width: 100%;       /* que nunca se pasen del contenedor */
+    height: auto;          /* mantiene proporción */
+    border-radius: 15px;   /* opcional, bordes redondeados */
+}
+
 }
 
 /* estrellas */
